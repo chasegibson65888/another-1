@@ -1,8 +1,11 @@
-body {
-    height: 150vh;
-    background-image: url('https://codetheweb.blog/assets/img/posts/css-advanced-background-images/mountains.jpg');
-}
-
+<html>
+    <head>
+        <meta charset ="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>gibson Password Generator</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+    <body>
 
 ul {
   list-style-type: none;
